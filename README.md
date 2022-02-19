@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/roshan100kar"><img src="https://api.daily.dev/devcards/df0dc4c2d81848bc94887b440d62a815.png?r=i8m" width="400" alt="Roshan 100kar's Dev Card"/></a>
+<a href="https://app.daily.dev/roshan100kar"><img src="https://api.daily.dev/devcards/df0dc4c2d81848bc94887b440d62a815.png?r=ogl" width="400" alt="Roshan 100kar's Dev Card"/></a>
