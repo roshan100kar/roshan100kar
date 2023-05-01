@@ -1,4 +1,4 @@
-### Hello World 👋 I QUIT.. ✌✌
+### Hello World 👋✌✌
 
 
 <!--
